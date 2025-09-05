@@ -1,8 +1,5 @@
 my name is srv
 and i am modifying this file on sep 4
-
-
 adding line from cli
-
 adding line from ui
-
+adding for clean
